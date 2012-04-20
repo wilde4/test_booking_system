@@ -1,4 +1,4 @@
-class CreateFacilityRooms < ActiveRecord::Migration
+class CreateFacilityRoomsTable < ActiveRecord::Migration
   def self.up
     create_table :facility_rooms do |t|
       t.integer   :facility_id

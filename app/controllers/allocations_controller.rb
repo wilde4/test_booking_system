@@ -1,0 +1,2 @@
+class AllocationsController < BookingSystem::AllocationsController
+end

@@ -12,4 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require "booking_system/application.js"
 //= require_tree .
